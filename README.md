@@ -28,7 +28,7 @@
 ## 📫 How to reach me
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/don-bosenga-434862207/">
+    <a href="https://www.linkedin.com/in/auguste-christian-562825227/">
         <img width="32px" alt="Linkedin" title="Linkedin" src="images/linkedinFooter.png"/>
     </a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -40,7 +40,7 @@
         <img width="32px" alt="Instagram" title="Instagram" src="images/instagramFooter.png"/>
     </a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="mailto:bosengad@gmail.com">
+    <a href="mailto:christiansabitimunanga@gmail.com">
         <img width="32px" alt="Gmail" title="Gmail" src="images/gmailFooter.png" />
     </a>
 </p>
