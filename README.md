@@ -12,7 +12,7 @@
 
 ## <p align="center">I’m Chris Sabiti 👋</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DonBos27&label=Profile%20views&color=0e75b6&style=flat" alt="DonBos27" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Augustethegreat&label=Profile%20views&color=0e75b6&style=flat" alt="Augustethegreat" /> </p>
 
 <!-- Passionate young software developer with a keen eye for detail and a love for problem-solving. Learning both front-end and back-end development, with a particular interest in building dynamic, responsive user interfaces. Committed to staying up-to-date with the latest technologies and always seeking out new ways to enhance my skills. -->
 
@@ -85,7 +85,7 @@
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=DonBos27&show_icons=true&theme=dracula" alt="my github stats" width="420"/>
     <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DonBos27&layout=compact&theme=radical" alt="languages" width="420"">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Augustethegreat&layout=compact&theme=radical" alt="languages" width="420"">
 </p>
 
 ## 📊 My Streak Stats
@@ -97,13 +97,13 @@
 ## 📊 My Contribution Stats
 
 <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DonBos27&theme=radical" alt="DonBos27"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Augustethegreat&theme=radical" alt="DonBos27"/>
 </p>
 
 ## 📊 My Trophies
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=DonBos27&row=2&column=3theme=radical&column=4&margin-w=15&margin-h=15&no-bg=true" alt="my trophies" width="420"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=Augustethegreat&row=2&column=3theme=radical&column=4&margin-w=15&margin-h=15&no-bg=true" alt="my trophies" width="420"/>
 </p>
 
 <!-- ## 🐍 Snake Animation -->
