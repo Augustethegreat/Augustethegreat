@@ -83,7 +83,7 @@
 ## 📊 My Github Stats
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=DonBos27&show_icons=true&theme=dracula" alt="my github stats" width="420"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Augustethegreat&show_icons=true&theme=dracula" alt="my github stats" width="420"/>
     <br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Augustethegreat&layout=compact&theme=radical" alt="languages" width="420"">
 </p>
@@ -91,7 +91,7 @@
 ## 📊 My Streak Stats
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DonBos27&theme=radical" alt="my streak stats" width="420"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Augustethegreat&theme=radical" alt="my streak stats" width="420"/>
 </p>
 
 ## 📊 My Contribution Stats
