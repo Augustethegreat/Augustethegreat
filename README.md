@@ -32,11 +32,11 @@
         <img width="32px" alt="Linkedin" title="Linkedin" src="images/linkedinFooter.png"/>
     </a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://twitter.com/Donatelo27">
-        <img width="32px" alt="Twitter" title="Twitter" src="images/twitterFooter.png"/>
+    <a href="https://christian-sabiti.vercel.app/">
+        <img width="32px" alt="Twitter" title="Twitter" src="images/vercel.png"/>
     </a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://www.instagram.com/dbosenga/">
+    <a href="https://www.instagram.com/christian.sabiti/">
         <img width="32px" alt="Instagram" title="Instagram" src="images/instagramFooter.png"/>
     </a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
