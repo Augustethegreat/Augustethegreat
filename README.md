@@ -33,7 +33,7 @@
     </a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://christian-sabiti.vercel.app/">
-        <img width="32px" alt="Twitter" title="Twitter" src="images/vercel.png"/>
+        <img width="32px" alt="Twitter" title="Vercel-Portfolio" src="images/vercel.png"/>
     </a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://www.instagram.com/christian.sabiti/">
